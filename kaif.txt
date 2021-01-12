@@ -1,0 +1,7 @@
+jim - is a salesman
+kaif - is an engineer
+saif - is a professional audit
+Tanvir - is a Banker
+Humaira - is an Intelligent women
+Zubaida - is my Dadi
+Start from Modules and Pip from tomorrow 09/01/2021
